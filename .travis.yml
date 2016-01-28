@@ -8,4 +8,4 @@ install:
 script: py.test script.py --cov coveralls --cov-report term-missing
 
 notifications:
-   email: false
+  email: false
